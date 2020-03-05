@@ -4,15 +4,14 @@
 
 header {
   background-color: whitesmoke;
-  color: blue
 }
 
 .finder-box {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .grass-img {
   width: 150px;
-  height: 150px;
+  height: 150px
 }
